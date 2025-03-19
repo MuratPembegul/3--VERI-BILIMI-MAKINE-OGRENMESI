@@ -48,4 +48,6 @@ gibi daha ileri konularla makine öğrenmesi dünyasını keşfetmeye devam edec
 
 Bu yazıyla birlikte, makine öğrenmesinin temel yapı taşlarını anlamış olduk. Her bir adımda, öğrendiğimiz modelleri gerçek dünyada nasıl uygulayabileceğimizi gördük. Daha fazla veri ve daha karmaşık algoritmalarla, makine öğrenmesinin sunduğu sınırsız olanakları keşfetmeye devam edeceğiz!
 
+# Güncelleme: Denetimli Öğrenme Kodları Eklendi.
+
 
