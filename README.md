@@ -50,5 +50,6 @@ Bu yazıyla birlikte, makine öğrenmesinin temel yapı taşlarını anlamış o
 
 # Güncelleme: Denetimli Öğrenme Kodları Eklendi.
 1-) Doğrusal Regresyon 
+2-) Lojistik Regresyon
 
 
