@@ -50,5 +50,6 @@ Bu yazıyla birlikte, makine öğrenmesinin temel yapı taşlarını anlamış o
 
 # Güncelleme: Denetimli Öğrenme Kodları Eklendi.
 # Güncelleme: Denetimsiz Öğrenme Kodları Eklendi.
+# Güncelleme: Pekiştirmeli Öğrenme Kodları Eklendi.
 
 
