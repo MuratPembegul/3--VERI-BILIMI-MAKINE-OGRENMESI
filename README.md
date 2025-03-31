@@ -54,5 +54,6 @@ Bu yazıyla birlikte, makine öğrenmesinin temel yapı taşlarını anlamış o
 # Güncelleme: Yarı Denetimli Öğrenme Kodları Eklendi.
 # Güncelleme Kendi Kendine Öğrenme Kodları Eklendi.
 # Güncelleme: Çoklu Görev Kodlrı Eklendi.
+# Güncelleme: Aktarım Öğrenmesi Kodları Eklenmitir.
 
 
